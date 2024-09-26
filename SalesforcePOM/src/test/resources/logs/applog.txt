@@ -1,0 +1,5 @@
+INFO    2024-09-26 12:07:08,007 [main] testcases.LoginPageTest  - Test Execution started !!!
+INFO    2024-09-26 12:07:21,920 [main] testcases.LoginPageTest  - Launching Chrome browser
+INFO    2024-09-26 12:07:24,640 [main] testcases.LoginPageTest  - Navigated to : https://automation-5a-dev-ed.my.salesforce.com/
+INFO    2024-09-26 12:07:27,471 [main] testcases.LoginPageTest  - Launching Chrome browser
+INFO    2024-09-26 12:07:28,588 [main] testcases.LoginPageTest  - Navigated to : https://automation-5a-dev-ed.my.salesforce.com/
